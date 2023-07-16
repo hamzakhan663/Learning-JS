@@ -9,7 +9,6 @@
 const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
 
 function golfScore(par, strokes) {
-  // Only change code below this line
 if(strokes==1){
   return names[0];
 }
@@ -32,7 +31,7 @@ else{
   return names[6];
 }
 
-  // Only change code above this line
+g
  
 }
 console.log(golfScore(6,10));
