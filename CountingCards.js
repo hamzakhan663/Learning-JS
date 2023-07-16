@@ -38,4 +38,4 @@ else{
 // Call Function
 CountingCards(9); CountingCards(2); CountingCards(8); CountingCards(5); CountingCards(6);
 // Display the string and the current count after running demo value 7 through the switch statement
-console.log(CountingCards(5));
+console.log(CountingCards(7));
