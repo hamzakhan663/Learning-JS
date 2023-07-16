@@ -1,4 +1,4 @@
-/*Blackjack Card Counting */
+/* gBlackjack Card Counting */
 
 // Initial Value of the variable 'count'
 let count = 0;
