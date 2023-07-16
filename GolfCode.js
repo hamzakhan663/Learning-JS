@@ -31,7 +31,7 @@ else{
   return names[6];
 }
 
-g
+
  
 }
 console.log(golfScore(6,10));
