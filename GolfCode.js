@@ -1,13 +1,7 @@
-// var Fname = "Hamza";
-// var Lname= Fname[Fname.length-5];
-// console.log(Lname);
-
-// var array=[4,5,6];
-// var findArray=array[0];
-// console.log(findArray);
-
+// Initialize the Array
 const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
 
+// Create a function that takes two parameters and runs them through certain values that each returns a specific phrase.
 function golfScore(par, strokes) {
 if(strokes==1){
   return names[0];
@@ -34,4 +28,5 @@ else{
 
  
 }
+// Display the result of the function upon assigning values to the parameters
 console.log(golfScore(6,10));
