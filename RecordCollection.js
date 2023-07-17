@@ -38,7 +38,7 @@ const recordCollection = {
       if (records[id].hasOwnProperty("tracks") === false) {
         records[id][prop] = [];
       }
-    // Add value ad the last item in the album's tracks array
+    // Add value as the last item in the album's tracks array
       records[id][prop].push(value);
     }
     
