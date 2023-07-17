@@ -2,7 +2,7 @@
 const ourArray = [];
 //Initial value of variable "i"
 let i = 0;
-// Execute 5 times and append numbers 0 through 20 to "ourArray"
+// Execute 20 times and append numbers 0 through 20 to "ourArray"
 while(i <= 20){
     ourArray.push(i);
     i++;
