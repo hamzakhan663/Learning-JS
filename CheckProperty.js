@@ -19,12 +19,12 @@ let users = {
   };
   
   function isEveryoneHere(userObj) {
-    // Only change code below this line
+  
     if('Alan' && 'Jeff' && 'Sarah' && 'Hamza'  in users){
       return true;
     }
     return false;
-    // Only change code above this line
+   
   }
   
   console.log(isEveryoneHere(users));
