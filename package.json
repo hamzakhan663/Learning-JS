@@ -1,0 +1,23 @@
+{
+  "name": "javascript-learning",
+  "version": "1.0.0",
+  "description": "This repository is my personal space for climbing aboard the JavaScript ship. Hop on board and hopefully you'd learn a thing or two.",
+  "main": "AlterArrayItems.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzakhan663/Learning-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzakhan663/Learning-JS/issues"
+  },
+  "homepage": "https://github.com/hamzakhan663/Learning-JS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
